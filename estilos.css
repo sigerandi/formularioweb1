@@ -1,0 +1,26 @@
+body{
+    background: #e3e2db;
+    text-align: center;
+
+}
+button:hover{
+    background: #c96767;
+    
+}
+.ventana{
+    background: #f0bdbd;
+    text-align: center;
+    border: 5px solid #c96767;
+    box-shadow: 5px 5px 5px #867f7f;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.tamaño{
+    padding-left: 10px;
+    text-align: center;
+}
